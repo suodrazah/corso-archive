@@ -1,5 +1,5 @@
 > [!NOTE] 
-> **The Corso project is no longer actively maintained and has been archived**.
+> **The company that started the Corso project was acquired by Veeam and the original repo is no longer actively maintained and has been archived. This fork preserves the archived project in case of deletion**.
 
 <p align="center">
     <img src="https://github.com/alcionai/corso/blob/main/website/static/img/corso_logo.svg?raw=true" alt="Corso Logo" width="100" />
